@@ -7,8 +7,8 @@ featured_image: /images/post_1.png
 ---
 
 From:
-- [https://twitter.com/Jonathan_Blow/status/1194078100885164032](https://twitter.com/Jonathan_Blow/status/1194078100885164032) | [Threadreader](https://threadreaderapp.com/thread/1194078100885164032.html)
-- [https://twitter.com/Jonathan_Blow/status/1194289482469502976](https://twitter.com/Jonathan_Blow/status/1194289482469502976) | [Threadreader](https://threadreaderapp.com/thread/1194289482469502976.html)
+- [https://twitter.com/Jonathan_Blow/status/1194078100885164032](https://twitter.com/Jonathan_Blow/status/1194078100885164032) or [Threadreader](https://threadreaderapp.com/thread/1194078100885164032.html)
+- [https://twitter.com/Jonathan_Blow/status/1194289482469502976](https://twitter.com/Jonathan_Blow/status/1194289482469502976) or [Threadreader](https://threadreaderapp.com/thread/1194289482469502976.html)
 
 ---------
 
