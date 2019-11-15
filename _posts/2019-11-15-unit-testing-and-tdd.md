@@ -2,14 +2,13 @@
 layout: post
 title: "Jonathan Blow on unit testing and TDD"
 date: 2019-11-15 12:00:00
-categories: jekyll
+categories: programming
 featured_image: /images/post_1.png
 ---
-https://twitter.com/Jonathan_Blow/status/1194078100885164032?s=09
-https://twitter.com/Jonathan_Blow/status/1194289482469502976
 
-https://threadreaderapp.com/thread/1194078100885164032.html
-https://threadreaderapp.com/thread/1194289482469502976.html
+From:
+- [https://twitter.com/Jonathan_Blow/status/1194078100885164032](https://twitter.com/Jonathan_Blow/status/1194078100885164032) | [Threadreader](https://threadreaderapp.com/thread/1194078100885164032.html)
+- [https://twitter.com/Jonathan_Blow/status/1194289482469502976](https://twitter.com/Jonathan_Blow/status/1194289482469502976) | [Threadreader](https://threadreaderapp.com/thread/1194289482469502976.html)
 
 ---------
 
