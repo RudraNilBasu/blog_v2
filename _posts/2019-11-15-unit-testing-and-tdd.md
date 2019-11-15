@@ -6,11 +6,9 @@ categories: programming
 featured_image: /images/post_1.png
 ---
 
-From:
-- [https://twitter.com/Jonathan_Blow/status/1194078100885164032](https://twitter.com/Jonathan_Blow/status/1194078100885164032) or [Threadreader](https://threadreaderapp.com/thread/1194078100885164032.html)
-- [https://twitter.com/Jonathan_Blow/status/1194289482469502976](https://twitter.com/Jonathan_Blow/status/1194289482469502976) or [Threadreader](https://threadreaderapp.com/thread/1194289482469502976.html)
+Below is are a series of tweets by Jonathan Blow regarding unit testing and TDD:
 
----------
+---
 
 Because so many people are confused when I say I don't like unit tests very much, I'll try to explain why.
 
@@ -76,3 +74,9 @@ Iteration speed is very important for productivity. There's a big difference bet
 If you have been paying 20 minutes every compilation for years, it's likely you no longer have a feel for what you have lost. If you get back to 1 minute, that'd be amazing. But also the person who was at 1 minute person no longer has a feel for what they have lost... !
 
 Computers today are amazingly fast. They should be able to compile programs almost instantly, for any reasonable program size. If they aren't doing that, it's the sign of a problem. 
+
+---
+
+From:
+- [https://twitter.com/Jonathan_Blow/status/1194078100885164032](https://twitter.com/Jonathan_Blow/status/1194078100885164032) or [Threadreader](https://threadreaderapp.com/thread/1194078100885164032.html)
+- [https://twitter.com/Jonathan_Blow/status/1194289482469502976](https://twitter.com/Jonathan_Blow/status/1194289482469502976) or [Threadreader](https://threadreaderapp.com/thread/1194289482469502976.html)
