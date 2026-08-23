@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design by iteration"
-date: 2026-08-23 12:00:00
+date: 2026-08-22 12:00:00
 categories: design
 featured_image: /images/post_2_0.png
 ---
