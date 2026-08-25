@@ -6,9 +6,9 @@ categories: programming
 featured_image: /images/post_1.png
 ---
 
+Below is are a series of tweets by Jonathan Blow regarding unit testing and TDD:
 
 ---
-Below is are a series of tweets by Jonathan Blow regarding unit testing and TDD:
 
 Because so many people are confused when I say I don't like unit tests very much, I'll try to explain why.
 
